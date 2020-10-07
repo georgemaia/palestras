@@ -1,6 +1,5 @@
-# Slides
+# Palestras
 
-Apresentações e Palestras
 
 | Data       | Título                            | Download                                     |
 | ---------- | --------------------------------- |:--------------------------------------------:|
